@@ -24,12 +24,14 @@
 </div>
 
  
- 
 
-- 🎓 Ministro aulas de programação para crianças
-- 🚀 Formada como desenvolvedora full stack java junior pela Generation Brasil
-- 📚 Cursando Letras na UFRJ
-- 📫 Contate-me pelo email: thaynasaraiva99@gmail.com
-- 😄 Pronomes: Ela/Dela
+🚀 Desenvolvedora full stack Java Junior formada pela Generation Brasil, com habilidades abrangentes em tecnologias front-end e back-end.
 
+💼 Estagiária de Transformação Digital na Vexia, atuando na vanguarda da inovação e tecnologia.
+
+📚 Estudante entusiasta de Letras na UFRJ, explorando a interseção entre linguagem, literatura e tecnologia.
+
+📫 Para colaborações, ideias ou bate-papos, sinta-se à vontade para me enviar um e-mail: thaynasaraiva99@gmail.com.
+
+😄 Pronomes: Ela/Dela. Comprometida com a inclusão e diversidade no mundo tech.
 
