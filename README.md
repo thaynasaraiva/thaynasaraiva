@@ -21,7 +21,14 @@
   <img align="center" alt="Thay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thay-dotnet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thay-java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thay-java" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-oracle" height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-github" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thay-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+
+
   
 
 ##
